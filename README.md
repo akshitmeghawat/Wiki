@@ -8,7 +8,9 @@
 
 ####Example
 
-```html <h1> Use H1 tag only once </h1>```
+```html
+<h1> Use H1 tag only once </h1>
+```
 
 ####Further References
 
